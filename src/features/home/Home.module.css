@@ -1,0 +1,20 @@
+.container {
+	margin-top: 3rem;
+	max-width: 80%;
+}
+.card {
+	transition: 0.3s ease-in-out;
+	justify-content: center;
+}
+
+.card > img {
+	height: 123px;
+	width: 128px;
+	object-fit: cover;
+	border-radius: 0px 0px 40px 0px;
+}
+.card:hover {
+	width: [object Object]px;
+	height: [object Object]px;
+	box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.404) !important;
+}

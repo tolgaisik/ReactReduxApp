@@ -1,0 +1,9 @@
+.container {
+	margin-top: 100px;
+	max-width: 50%;
+}
+.col {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
